@@ -1,7 +1,7 @@
 # Msbuild payload generator
 Msbuild is a great way to bypass Applockers and AVs, this tool simply automates the payload creation process.
 
-[![asciicast](https://asciinema.org/a/M9QOxb7HPam1P9B1BQUdA3CpL.svg)](https://asciinema.org/a/M9QOxb7HPam1P9B1BQUdA3CpL?speed=2)
+[![asciicast](https://asciinema.org/a/304065.svg)](https://asciinema.org/a/304065)
 
 # Example 
 ```
